@@ -14,4 +14,4 @@ RUN bash
 
 COPY . .
 
-CMD ["bash"]
+CMD whoami
