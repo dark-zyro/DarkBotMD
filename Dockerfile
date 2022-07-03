@@ -14,4 +14,4 @@ RUN bash
 
 COPY . .
 
-CMD whoami
+CMD ["echo","HIIIIIIIIIIIIIIIII"]
