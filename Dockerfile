@@ -14,4 +14,4 @@ RUN bash
 
 COPY . .
 
-CMD ["node", "."]
+CMD ["bash"]
